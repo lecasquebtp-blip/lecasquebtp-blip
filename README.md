@@ -1,4 +1,4 @@
-# 👋 Salut, moi c'est TonNom
+# 👋 Salut, moi c'est BTP
 
 💻 Développeur passionné par la technologie et la création de projets utiles.  
 🚀 Toujours en train d'apprendre et d'expérimenter de nouvelles technologies.
@@ -11,7 +11,7 @@
 - 🌱 J'apprends actuellement : **Nouvelles technologies / frameworks**
 - 👯 Je cherche à collaborer sur : **Projets open source**
 - 💬 Demande-moi à propos de : **Web, programmation, tech**
-- 📫 Me contacter : **ton.email@example.com**
+- 📫 Me contacter : **//**
 
 ---
 
@@ -27,15 +27,15 @@
 
 ## 📊 Statistiques GitHub
 
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=tokyonight)
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=lecasquebtp-blip&show_icons=true&theme=tokyonight)
 
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=tokyonight)
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=lecasquebtp-blip&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🔥 Streak GitHub
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=TON_USERNAME&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=lecasquebtp-blip&theme=tokyonight)
 
 ---
 
