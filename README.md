@@ -10,7 +10,7 @@
 - 🔭 Je travaille actuellement sur : **gun.lol remastered**
 - 🌱 J'apprends actuellement : **SQL / JS**
 - 👯 Je cherche à collaborer sur : **Projets pouvant m'apporter de nouvelles connaissances dans des domaines que je ne connais pas**
-- 📫 Me contacter : **Discord : [eukaliptus.fr](https://discord.com/users/1075196512457465866)**
+- 📫 Me contacter : **Discord : [eukaliptus.fr](https://discord.com/users/1075196512457465866) Mail : azuryskyfall@pm.me**
 
 ---
 
