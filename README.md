@@ -1,17 +1,16 @@
-# 👋 Salut, moi c'est BTP
+# 👋 Salut, moi c'est Eukaliptus (Oui c'est le dérivé de Eucalyptus!)
 
-💻 Développeur passionné par la technologie et la création de projets utiles.  
-🚀 Toujours en train d'apprendre et d'expérimenter de nouvelles technologies.
+💻 J'étudie encore et j'aime dev sur mon temps libre.  
+🚀 Certains projet sont en cours mais rien de plus.
 
 ---
 
 ## 🧑‍💻 À propos de moi
 
-- 🔭 Je travaille actuellement sur : **Mes projets personnels**
-- 🌱 J'apprends actuellement : **Nouvelles technologies / frameworks**
-- 👯 Je cherche à collaborer sur : **Projets open source**
-- 💬 Demande-moi à propos de : **Web, programmation, tech**
-- 📫 Me contacter : **//**
+- 🔭 Je travaille actuellement sur : **gun.lol remastered**
+- 🌱 J'apprends actuellement : **SQL / JS**
+- 👯 Je cherche à collaborer sur : **Projets pouvant m'apporter de nouvelles connaissances dans des domaines que je ne connais pas**
+- 📫 Me contacter : **Discord : [eukaliptus.fr](https://discord.com/users/1075196512457465866)**
 
 ---
 
@@ -20,7 +19,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
