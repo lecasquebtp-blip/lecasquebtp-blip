@@ -27,7 +27,7 @@
 
 ## 📊 Statistiques GitHub
 
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=lecasquebtp-blip&show_icons=true&theme=tokyonight)
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=lecasquebtp-blip&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
 ![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=lecasquebtp-blip&layout=compact&theme=tokyonight)
 
