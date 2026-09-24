@@ -6,7 +6,7 @@
 💻 Étudiant qui aime développer sur son temps libre  
 🚀 Quelques projets en cours, rien de plus pour l'instant
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://profilgamer.fr/u/eukaliptus_fr)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://profilgamer.fr/u/eukaliptus.fr)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1075196512457465866)
 [![Mail](https://img.shields.io/badge/Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:azuryskyfall@pm.me)
 
