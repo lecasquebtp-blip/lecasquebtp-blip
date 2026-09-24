@@ -1,12 +1,13 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=160&section=header&text=Eukaliptus&fontColor=ffffff&fontSize=45&fontAlignY=35" />
+
 <div align="center">
 
-# 👋 Salut, moi c'est Eukaliptus
-<sub>*(Oui, c'est dérivé de Eucalyptus !)*</sub>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Salut+!+Moi+c'est+Eukaliptus+%F0%9F%8C%BF;(Oui%2C+c'est+d%C3%A9riv%C3%A9+de+Eucalyptus+!);%C3%89tudiant+%26+dev+passionn%C3%A9;JS+%C2%B7+Python+%C2%B7+Node.js" />
 
 💻 Étudiant qui aime développer sur son temps libre  
 🚀 Quelques projets en cours, rien de plus pour l'instant
 
-[![ProfilGamer](https://img.shields.io/badge/ProfilGamer-7C5CFF?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI%2BPGRlZnM%2BPGxpbmVhckdyYWRpZW50IGlkPSJnIiB4MT0iMCIgeTE9IjAiIHgyPSI2NCIgeTI9IjY0IiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI%2BPHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjN2M1Y2ZmIi8%2BPHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjYjE0Y2ZmIi8%2BPC9saW5lYXJHcmFkaWVudD48L2RlZnM%2BPHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiByeD0iMTQiIGZpbGw9InVybCgjZykiLz48cGF0aCBkPSJNMjQgMjIgMTQgMzJsMTAgMTBNNDAgMjJsMTAgMTAtMTAgMTAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSI1IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz48L3N2Zz4%3D)](https://profilgamer.fr/u/eukaliptus.fr)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://profilgamer.fr/u/eukaliptus.fr)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1075196512457465866)
 [![Mail](https://img.shields.io/badge/Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:azuryskyfall@pm.me)
 
@@ -54,8 +55,19 @@
 
 ---
 
+## 🐍 Mes contributions
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lecasquebtp-blip/lecasquebtp-blip/output/github-snake-dark.svg" />
+  <img alt="Snake" src="https://raw.githubusercontent.com/lecasquebtp-blip/lecasquebtp-blip/output/github-snake.svg" />
+</picture>
+</div>
+
 <div align="center">
 
 ⭐ **Merci de visiter mon profil !**
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=120&section=footer" />
