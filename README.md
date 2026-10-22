@@ -20,7 +20,7 @@
 | | |
 |---|---|
 | 🔭 **En ce moment** | gun.lol remastered |
-| 🌱 **J'apprends** | SQL · JavaScript |
+| 🌱 **J'apprends** | SQL · JavaScript · C · Python |
 | 👯 **Collaboration** | Des projets qui m'apprennent des domaines que je ne connais pas encore |
 | 📫 **Contact** | Discord : [eukaliptus.fr](https://discord.com/users/1075196512457465866) · Mail : azuryskyfall@pm.me |
 
