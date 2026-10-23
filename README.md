@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Salut+!+Moi+c'est+Eukaliptus+%F0%9F%8C%BF;(Oui%2C+c'est+d%C3%A9riv%C3%A9+de+Eucalyptus+!);%C3%89tudiant+%26+dev+passionn%C3%A9;JS+%C2%B7+Python+%C2%B7+Node.js" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Salut+!+Moi+c'est+Eukaliptus+%F0%9F%8C%BF;(Oui%2C+c'est+d%C3%A9riv%C3%A9+de+Eucalyptus+!);%C3%89tudiant;JS+%C2%B7+Python+%C2%B7+Node.js" />
 
 💻 Étudiant qui aime développer sur son temps libre  
 🚀 Quelques projets en cours, rien de plus pour l'instant
