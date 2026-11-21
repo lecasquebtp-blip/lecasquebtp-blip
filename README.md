@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Salut+!+Moi+c'est+Eukaliptus+%F0%9F%8C%BF;(Oui%2C+c'est+d%C3%A9riv%C3%A9+de+Eucalyptus+!);%C3%89tudiant;JS+%C2%B7+Python+%C2%B7+Node.js" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Salut+!+Moi+c'est+Eukaliptus+%F0%9F%8C%BF;(Oui%2C+c'est+d%C3%A9riv%C3%A9+de+Eucalyptus+!);%C3%89tudiant+%C2%B7+dev+sur+mon+temps+libre;Cr%C3%A9ateur+de+ClaudePet+%F0%9F%90%BE;JS+%C2%B7+Python+%C2%B7+Node.js" />
 
 💻 Étudiant qui aime développer sur son temps libre  
 🚀 Quelques projets en cours, rien de plus pour l'instant
@@ -15,11 +15,38 @@
 
 ---
 
+## 🐾 Projet phare : ClaudePet
+
+<div align="center">
+
+**Un petit Claude en pixel art qui vit sur ton bureau.**  
+Il suit l'activité de Claude Code et réagit quand tu codes.
+
+[![Site](https://img.shields.io/badge/claudepet.casq.dev-7aa2f7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://claudepet.casq.dev)
+[![Release](https://img.shields.io/github/v/release/clawdpet/claudepet?style=for-the-badge&color=bb9af7&label=version)](https://github.com/clawdpet/claudepet/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/clawdpet/claudepet/total?style=for-the-badge&color=9ece6a&label=t%C3%A9l%C3%A9chargements)](https://github.com/clawdpet/claudepet/releases)
+
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+
+</div>
+
+| | |
+|---|---|
+| 🎮 **Pass de niveaux** | Ton pet gagne des niveaux pendant que tu codes |
+| 👕 **Tenues & émojis** | Habille-le et crée tes propres émojis |
+| 💬 **Statut Discord** | Montre ton pet dans ton statut Discord |
+| 🌐 **Multijoueur** | Des salons pour retrouver les pets des autres |
+| ☁️ **Sauvegarde en ligne** | Ta progression est liée à ton compte Discord |
+
+---
+
 ## 🧑‍💻 À propos de moi
 
 | | |
 |---|---|
-| 🔭 **En ce moment** | [Claude Pet](https://claudepet.casq.dev)|
+| 🔭 **En ce moment** | [ClaudePet](#-projet-phare--claudepet), sur mon domaine [casq.dev](https://claudepet.casq.dev) |
 | 🌱 **J'apprends** | SQL · JavaScript · C · Python |
 | 👯 **Collaboration** | Des projets qui m'apprennent des domaines que je ne connais pas encore |
 | 📫 **Contact** | Discord : [eukaliptus.fr](https://discord.com/users/1075196512457465866) · Mail : eukaliptus_fr@pm.me |
